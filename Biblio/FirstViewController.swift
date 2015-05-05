@@ -25,9 +25,9 @@ class FirstViewController: UIViewController {
         }
         
         
-        var html1 = "<iframe width=\"280\" height=\"155\" src=\"https://www.youtube.com/embed/UQUgSX_J3gc\" frameborder=\"0\" allowfullscreen></iframe>"
+        var html1 = "<iframe width=\"280\" height=\"180\" src=\"https://www.youtube.com/embed/UQUgSX_J3gc?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
         
-        var html2 = "<iframe width=\"280\" height=\"155\" src=\"https://www.youtube.com/embed/xx6iu5DoLKE?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
+        var html2 = "<iframe width=\"280\" height=\"180\" src=\"https://www.youtube.com/embed/xx6iu5DoLKE?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
         
         
         

@@ -20,13 +20,13 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        var TourPiso1 = "<iframe width=\"400\" height=\"117\" src=\"https://www.youtube.com/embed/rW3s8w1bzVg?list=PLnncon5XHt5p-GwkOQsb1NrGg5mVkNW3e&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
+        var TourPiso1 = "<iframe width=\"400\" height=\"118\" src=\"https://www.youtube.com/embed/rW3s8w1bzVg?list=PLnncon5XHt5p-GwkOQsb1NrGg5mVkNW3e&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
         
-        var TourPiso2 = "<iframe width=\"400\" height=\"117\" src=\"https://www.youtube.com/embed/qu3GfYxW-EU?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
+        var TourPiso2 = "<iframe width=\"400\" height=\"118\" src=\"https://www.youtube.com/embed/u4mCGfkSI_w?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
         
-        var TourPiso3 = "<iframe width=\"400\" height=\"117\" src=\"https://www.youtube.com/embed/rW3s8w1bzVg?list=PLnncon5XHt5p-GwkOQsb1NrGg5mVkNW3e&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
+        var TourPiso3 = "<iframe width=\"400\" height=\"118\" src=\"https://www.youtube.com/embed/rW3s8w1bzVg?list=PLnncon5XHt5p-GwkOQsb1NrGg5mVkNW3e&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
         
-        var TourPiso4 = "<iframe width=\"400\" height=\"117\" src=\"https://www.youtube.com/embed/rW3s8w1bzVg?list=PLnncon5XHt5p-GwkOQsb1NrGg5mVkNW3e&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
+        var TourPiso4 = "<iframe width=\"400\" height=\"118\" src=\"https://www.youtube.com/embed/B0uyTBALR7Y?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen></iframe>"
         
         WebViewPiso1.loadHTMLString(TourPiso1, baseURL: nil)
         WebViewPiso2.loadHTMLString(TourPiso2, baseURL: nil)
